@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MINI_FILE_SYSTEM/1.0.0": {
+        "runtime": {
+          "MINI_FILE_SYSTEM.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MINI_FILE_SYSTEM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
